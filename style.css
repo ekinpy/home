@@ -1,8 +1,13 @@
+@font-face {
+    font-family: custom;
+    src: url("Raleway-Light.ttf");
+}
+
 body {
     margin: 0;
     padding: 0;
     background-color: black;
-    font-family: monaco;
+    font-family: custom;
     text-decoration: none;
     text-shadow: 0 0 0.5em currentColor;
     font-size: 25px;
@@ -57,7 +62,7 @@ h3 {
 
 button {
     cursor: pointer;
-    font-family: monaco;
+    font-family: custom;
     font-weight: bold;
     --glow-color: #3DFF9C;
     --glow-spread-color: #3DFF9C;
