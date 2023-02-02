@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 body {
     margin: 0;
     padding: 0;
     background-color: black;
-    font-family: consolas;
+    font-family: 'Lato', sans-serif;
     text-decoration: none;
     text-shadow: 0 0 0.5em currentColor;
     font-size: 25px;
